@@ -27,9 +27,11 @@ npm install
 npm start
 
 
-The app will run at: http://localhost:3000
+The app will run at: http://localhost:3000 
 
-📚 Purpose of the Project
+
+**Purpose of the Project**
+
 
 This project was built as part of my journey to learn React.js and understand key concepts like:
 
