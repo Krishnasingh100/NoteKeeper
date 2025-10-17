@@ -1,12 +1,42 @@
-# React + Vite
+-
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📝 NoteKeeper App (React.js)
 
-Currently, two official plugins are available:
+A beginner-friendly **NoteKeeper web app** built using **React.js**. It allows users to create, save, and delete personal notes, with data stored in the browser using `localStorage`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Add new notes
+- Delete individual notes
+- Auto-save notes in local storage
+- Responsive and minimal UI
+- Built with React functional components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/notekeeper.git
+cd notekeeper
+
+2. Install dependencies
+npm install
+
+3. Start the development server
+npm start
+
+
+The app will run at: http://localhost:3000
+
+📚 Purpose of the Project
+
+This project was built as part of my journey to learn React.js and understand key concepts like:
+
+State management with useState
+
+Handling user input
+
+Persistent storage using localStorage
+
+Functional components and props
